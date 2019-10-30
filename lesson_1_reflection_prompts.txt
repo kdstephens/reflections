@@ -1,0 +1,44 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    The plus and minus signs showed directed me to only the lines that changed between versions
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    I won't have to go searching through old versions of files.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+	The main pros are that your commits correspond to logical changes in the code
+	and you get the opportunity to add comments which reflect these logical changes. 
+	Thus, it becomes much easier to track the progress of versions if you ever
+	need to do so. The only con I can see is that you increase your risk of 
+	losing work because of some error or unintended shut-down before you got
+	a chance to make your commit. 
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Because Git and other sysetems like it were designed for coding projects which often 
+	require several interlinked files to function properly (e.g., an .html file and its corresponding
+	.css file for formatting). Systems like Google Docs on the other hand were designed 
+	for more general purpose applications (like word processing) which typically only 
+	need one file to function properly. 
+
+How can you use the commands git log and git diff to view the history of files?
+
+    First use git log to see all the commits with their associated comments. Then, use git
+	diff to see the differences between any two versions in the log. 
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    If I know I can always (and easily) return to a previous version of the code, then I can
+	feel confident that any "code-breaking" changes can be easily undone. 
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    All of my programming projects!
