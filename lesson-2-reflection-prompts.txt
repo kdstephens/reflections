@@ -28,6 +28,10 @@ organized? How would branches help?
 
 How do the diagrams help you visualize the branch structure?
 
+	Diagrams display branches in a much more natural (i.e., visual) way than in the command 
+	window. They also allow you to visualize the directionality of branches which isn't really 
+	conveyed in the command window. 
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
