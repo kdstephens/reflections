@@ -41,3 +41,10 @@ the diagram the way we do?
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+
+	The pro of the automerging is that users won't have to manually do all of their merges. 
+	The cons are that the automerge feature isn't very 'smart' in that it requires manually
+	merging anywhere there is a conflict within the same area of a file. In other words, Git
+	should never automatically merge something you don't want to be automatically merged (pro), 
+	but will fail to automatically merge things that seems like they should be obvious or easy
+	to automatically merge (con).
