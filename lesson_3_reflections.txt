@@ -18,4 +18,11 @@ one instead of another?
   GitHub to a new repository on GitHub; with clone you can copy a repository to
   your local machine). A branch occurs within a repository; it enables a
   "new version" of the code while leaving intact versions already in the
-  repository. 
+  repository.
+
+What is the benefit of having a copy of the last known state of the remote
+stored locally?
+
+  You can review how the last known state of the remote differs from your
+  current local branch without having to be connected to the internet and
+  without having to combine the remote and the local branch. 
