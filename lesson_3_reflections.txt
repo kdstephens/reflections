@@ -25,4 +25,15 @@ stored locally?
 
   You can review how the last known state of the remote differs from your
   current local branch without having to be connected to the internet and
-  without having to combine the remote and the local branch. 
+  without having to combine the remote and the local branch.
+
+How would you collaborate without using Git or GitHub? What would be easier, 
+and what would be harder?
+
+  I suppose my collaborators and I would send files back and forth via email or
+  upload them to some cloud storage system like Dropbox. This would be
+  easier in one sense: I already know how to do it. There's no learning
+  curve like with Git or GitHub. However, it would be harder to keep track of
+  changes, to make sure the project doesn't break, and to make sure all
+  collaborators always have access to the most recent versions. I suppose this
+  difficulty would increase drastically with the number of collaborators.
